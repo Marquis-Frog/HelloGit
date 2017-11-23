@@ -1,1 +1,1 @@
-サルでもわかるGitコマンド変更
+GitCommand for Monkey
